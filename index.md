@@ -46,12 +46,11 @@ See [Instructor notes](http://datacarpentry.github.io/spreadsheet-ecology-lesson
 ## Lessons:
 
 1. [Introduction](00-intro.html)
-2. [Formatting data](01-format-data.html)
-3. [Common formatting problems](02-common-mistakes.html)
-4. [Dates as data](03-dates-as-data.html)
-5. [Quality control](04-quality-control.html)
-6. [Exporting data](05-exporting-data.html)
-7. [Data Format Caveats](06-data-formats-caveats.html)
+1. [Formatting data](01-format-data.html)
+1. [Common formatting problems](02-common-mistakes.html)
+1. [Dates as data](03-dates-as-data.html)
+1. [Exporting data](05-exporting-data.html)
+1. [Data Format Caveats](06-data-formats-caveats.html)
 
 
 
