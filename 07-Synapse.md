@@ -24,8 +24,7 @@ cleaned up the original spreadsheet and then exported that file to a text file f
 [Click Here To Create a Project](https://www.synapse.org/#!ProjectsHome:0)
 
 2. Navigate to the files tab, and click `Upload or Link to File`, and find the `csv` file you made.
-
-3. Let's add provenance to it - using the `Tools` menu, click `Edit Provenance`. We'll add the file that
+2. Let's add provenance to it - using the `Tools` menu, click `Edit Provenance`. We'll add the file that
    we started with (syn4951755) as a file we `used`. Let's name our activity "Data processing", and add in some text about what we did. Click save.
 
 So, what did we do? We stored a copy of our data in Synapse. Then, we described the transformation that we performed on the Excel spreadsheet to get it into a clean, standardized format.
