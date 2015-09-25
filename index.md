@@ -2,12 +2,12 @@
 layout: lesson
 root: .
 lastupdated: August 18, 2015
-contributors: ["Christie Bahlai", "Aleksandra Pawlik", "Jennifer Bryan", "Alexander Duryee", "Jeffrey Hollister", "Daisie Huang", "Owen Jones", "Ben Marwick", "Tracy Teal"]
+contributors: ["Christie Bahlai", "Aleksandra Pawlik", "Jennifer Bryan", "Alexander Duryee", "Jeffrey Hollister", "Daisie Huang", "Owen Jones", "Ben Marwick", "Tracy Teal", "Kenneth Daily"]
 maintainers: ["Aleksandra Pawlik", "Tracy Teal"]
-domain: Ecology
+domain: Biology
 topic: Spreadsheets
 software: Spreadsheets
-dataurl: https://www.dropbox.com/s/5ncuacnd3arjitc/survey_data_tabs.xls?dl=0
+dataurl: https://www.synapse.org/#!Synapse:syn4951755
 status: Teaching
 ---
 
@@ -56,8 +56,22 @@ See [Instructor notes](http://datacarpentry.github.io/spreadsheet-ecology-lesson
 
 ## Data
 
-Data files for the lesson are available here: [{{page.dataurl %}}]({{page.dataurl %}})
+Data files for the lesson are available in Synapse here: [{{page.dataurl %}}]({{page.dataurl %}})
 
+You can also get this file from the `R` client:
+
+```
+library(synapseClient)
+synapseLogin()
+obj <- synGet("syn4951755")
+getFileLocation(obj)
+```
+
+Or the Synapse command line client:
+
+```
+#> synapse get syn4951755
+```
 
 ### Requirements
 
@@ -68,7 +82,7 @@ through this lesson requires working copies of the software described below.
 To most effectively use these materials, please make sure to install everything
 *before* working through this lesson.
 
-
+In this version of the course, we are using an Amazon image. You can do this work there, but it will probably work just as well from your own laptop.
 
 
 {% if page.software == "Python" %}
