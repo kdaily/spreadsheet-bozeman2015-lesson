@@ -4,7 +4,7 @@ root: .
 lastupdated: August 18, 2015
 contributors: ["Christie Bahlai", "Aleksandra Pawlik", "Jennifer Bryan", "Alexander Duryee", "Jeffrey Hollister", "Daisie Huang", "Owen Jones", "Ben Marwick", "Tracy Teal", "Kenneth Daily"]
 maintainers: ["Aleksandra Pawlik", "Tracy Teal"]
-domain: Biology
+domain: Biology - Bozeman 2015
 topic: Spreadsheets
 software: Spreadsheets
 dataurl: https://www.synapse.org/#!Synapse:syn4951755
