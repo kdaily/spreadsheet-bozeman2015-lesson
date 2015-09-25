@@ -109,7 +109,7 @@ So, instead we should have:
 
 We're going to take a messy version of the survey data and clean it up.
 
-- Download the data by clicking [here](http://files.figshare.com/2236371/survey_data_spreadsheet_messy.xls) to get it from FigShare.
+- Download the data by clicking [here](https://www.synapse.org/#!Synapse:syn4951755) to get it from Synapse.
 
 - Open up the data in a spreadsheet program 
 
