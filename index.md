@@ -51,7 +51,7 @@ See [Instructor notes](http://datacarpentry.github.io/spreadsheet-ecology-lesson
 1. [Dates as data](03-dates-as-data.html)
 1. [Exporting data](05-exporting-data.html)
 1. [Data Format Caveats](06-data-formats-caveats.html)
-
+1. [Synapse for data storing and provenance](07-Synapse.html)
 
 
 ## Data
